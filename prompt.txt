@@ -1,0 +1,52 @@
+Message 1
+
+I want you to Create a Nature & Environment Website using HTML and CSS.
+The website should present the beauty of nature and provide information about forests, mountains, rivers, wildlife, and environmental protection.
+Requirements
+
+Header & Navigation — 5 Marks
+Create a header containing:
+Website logo/name
+Home
+About
+Nature
+Wildlife
+Contact
+Hero Section — 8 Marks
+Create a hero section containing:
+Nature
+Message 2
+
+give me the codes html and css
+
+Message 3
+
+add a tree kind of thing in between and use the animations to show the options forest mountaion river and all around it and like not simply in circle just like a snake is crawling above a tree by circling around it
+
+Message 4
+
+its not the image that required its the 3d animation that required.
+
+Message 5
+
+make the tree a little good like this one is pretty messed up and change the color pattern a little like which has not been used by many but good to see as well
+
+Message 6
+
+ok so basically this is the output you will provide in most of the cases now i want you to make it totally different like change the way and use some other colors chnage theat nature like the logo its pretty normal i mean i want it to be unique
+
+Message 7
+
+Now this is much better but i want you to keep that tree part we discussed to make it like 3d
+
+Message 8
+
+Now this is much better but i want you to keep that tree part we discussed to make it like 3d for our website in the code
+
+Message 9
+
+Now this is much better but i want you to keep that tree part we discussed to make it like 3d for our website in the code and listen i am not asking you to create an image i want you to add a 3d tree in our website having the options around it with animations
+
+Message 10
+
+Try to keep that tree part on the top of the page and give me the full HTML and CSS
